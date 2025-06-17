@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" <!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu portfólio</title>
+</head>
+
+<body>
+    <header class="container text-center">
+        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
+        <p class="lead">Eu me chamo Leonardo, mais conhecido como LEUHS</p>
+      <h1>Eu estudo Artes Cênicas</h1>
+    <p>Eu sou apaixonado por novelas, séries e musícas, desde criancinha. Fiz coral por três anos no ensino fundamental e decidi estudar teatro no ensino médio, aonde eu tive minha estreia nos palcos</p>
+        <p>Minhas habilidades</p>
+        <div>
+            <p>Carisma</p>
+            <p>Dedicação</p>
+            <p>Criatividade</p>
+            <p>Atencioso</p>
+        </div>
+    </header>
+    <main class="container">
+<h2>Meus projetos</h2>
+       <div class="row">         
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <div class="card-body">
+                        <h5 class="card-title">Minha participação no coral do ensino fundamental</h5>
+                        <p class="card-text">Havia um projeto de coral na escola do fundamntal da escola onde eu estudava, eu participei nele por uns 3 anos, não seguidos, mas fiz partes de muitas apresentações especiais!</p>
+                           
